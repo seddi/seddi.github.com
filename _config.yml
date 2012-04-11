@@ -1,0 +1,41 @@
+permalink: /:categories:month/:title
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+pygments: true
+url: http://seddi.github.com
+exclude:
+        - Rakefile
+        - Makefile
+        - presentation.md
+        - presentation.html
+        - presentation.png
+        - media
+
+account: seddi
+archive: Son Girdiler
+assets: /assets
+author: Sedat Geldi
+disqus: 19notlar
+email: sedat.geldi@bil.omu.edu.tr
+facebook: ~
+feed: ~
+flickr: ~
+google: ~
+googleanalyticsid:
+googleplus: ~
+gpg: ~
+domain: seddi.github.com
+logo: /assets/19/19-normal-128x128.png
+organization: 19
+picasa: ~
+related: Diğer Girdiler
+repository: seddi.github.com
+ribbon: GitHub'dayım
+title: Sedat Geldi
+twitter: ~
+
+navigator:
+        0: Teknik Olmayan Yazılar
+        1: Teknik Yazılar
+
