@@ -3,7 +3,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 pygments: true
-url: http://seddi.github.com
+url: http://seddi.me
 exclude:
         - Rakefile
         - Makefile
@@ -18,14 +18,14 @@ assets: /assets
 author: Sedat Geldi
 disqus: 19notlar
 email: sedat.geldi@bil.omu.edu.tr
-facebook: ~
+facebook: https://www.facebook.com/sdtgldi
 feed: ~
 flickr: ~
 google: ~
 googleanalyticsid:
 googleplus: ~
 gpg: ~
-domain: seddi.github.com
+domain: seddi.me
 logo: /assets/19/19-normal-128x128.png
 organization: 19
 picasa: ~
@@ -38,4 +38,4 @@ twitter: ~
 navigator:
         0: Teknik Olmayan Yazılar
         1: Teknik Yazılar
-
+        9: Kısa Notlar
